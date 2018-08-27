@@ -17,7 +17,6 @@ const Work = () => (
             <span>&bull;</span>
             <em className="date">March 2010 - Present</em>
           </p>
-
           <p>
             <li>Wordpress websites</li>
             <li>Webcomerce websites using Shopify</li>

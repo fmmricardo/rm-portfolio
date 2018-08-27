@@ -6,7 +6,7 @@ const Banner = () => (
     <div className="banner-text">
       <h1 className="responsive-headline">Ricardo Martins</h1>
       <h3>
-          I'm a freelancer Frontend developer.
+          I'm Frontend developer.
         <a className="smoothscroll" href="#about">
           {" "}
           start scrolling
