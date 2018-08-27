@@ -12,12 +12,10 @@ const About = () => (
       <div className="nine columns main-col">
         <h2>About Me</h2>
         <p>
-          selftaught frontend developer since 2016, looking for freelancing jobs as well looking for a part-time or full-time. 
-          based in Porto with knowledge in html, css and javascript. 
-          Skills: HTML, CSS, Sass, Javascript jQuery, Git, Github, Gulp, npm, Command line Wordpress, Responsive design Website Performance, nodejs, react(basics), 
-          photoshop, Ilustrator, Bootstrap, shopify.
-          study Frontend Development, UX/UI @ The New Digital School
-
+        Self-taught front-end developer since 2016.
+        Based in Porto looking for freelancing jobs as well looking for full-time. 
+        Knowledge of HTML, CSS and javascript. 
+        <p>Study Frontend Development and UX/UI Design @ The New Digital School</p>
         </p>
         {/* <div className="row">
           <div className="columns contact-details">
