@@ -7,14 +7,15 @@ const Banner = () => (
       <h1 className="responsive-headline">Ricardo Martins</h1>
       <h3>
         I'm Frontend developer.
-        <a className="smoothscroll" href="#about">
-          start scrolling
-        </a>
-        and learn more
-        <a className="smoothscroll" href="#about">
-          about me
-        </a>
-        .
+        <p>
+          <a className="smoothscroll" href="#about">
+            start scrolling
+          </a>
+          and learn more
+          <a className="smoothscroll" href="#about">
+            about me.
+          </a>
+        </p>
       </h3>
       <hr />
       <SocialLinks />
