@@ -1,11 +1,10 @@
-import React from "react";
-import { FaPlus, FaTag } from "react-icons/lib/fa";
+import React from 'react';
+import { FaPlus, FaTag } from 'react-icons/lib/fa';
 
-import ASC from "../assets/images/portfolio/ASC.png";
-import Piursa from "../assets/images/portfolio/Piursa.png";
-import myminibo from "../assets/images/portfolio/myminibo.png";
-import drartur from "../assets/images/portfolio/drartur.png";
-
+import ASC from '../assets/images/portfolio/ASC.png';
+import Piursa from '../assets/images/portfolio/Piursa.png';
+import myminibo from '../assets/images/portfolio/myminibo.png';
+import drartur from '../assets/images/portfolio/drartur.png';
 
 const Portfolio = () => (
   <section id="portfolio">

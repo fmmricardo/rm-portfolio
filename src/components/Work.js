@@ -1,15 +1,28 @@
-import React from "react";
+import React from 'react';
 
 const Work = () => (
   <div className="row work">
     <div className="three columns header-col">
       <h1>
-        <span>Work</span>
+        <span>Work Experience</span>
       </h1>
     </div>
 
     <div className="nine columns main-col">
       <div className="row item">
+        <div className="twelve columns">
+          <h3>UTRUST</h3>
+          <p className="info">
+            Frontdend developer
+            <span>&bull;</span>
+            <em className="date">October 2018 - Present</em>
+          </p>
+          <p>
+            Mantaining and improving the website project. Using react technology
+            through Gatsbyjs. Workinng with netlify continuous integrations and
+            implementing netlify cms.
+          </p>
+        </div>
         <div className="twelve columns">
           <h3>Freelancing</h3>
           <p className="info">

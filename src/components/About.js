@@ -12,19 +12,19 @@ const About = () => (
       <div className="nine columns main-col">
         <h2>About Me</h2>
         <p>
-        I worked as a Chemical Engineer in Detmold, Germany for 4 years. During this time 
-        I had an opportunity to deal not only with the professional challenges but also with a new culture and a new language. 
+        I worked as a Chemical Engineer in Detmold, Germany for 4 years. During this time
+        I had an opportunity to deal not only with the professional challenges but also with a new culture and a new language.
         During this time I started learning code by myself.
 
         At first, it started as a hobby but soon became more than that and the interest for the tech industry grew exponentially.
         Since 2016 I was already into the game and I learned skills like CSS, HTML, Javascript, jQuery and Node js on Treehouse.
 
-        In 2017 I decided to come back to Portugal for reasons of major force, and it was the perfect time to take and to pursue my passion – 
-        Frontend development and since I moved  I started to do some client projects using WordPress and Shopify.  
-        In January 2018 I join in The New Digital School program that is a tailored to and driven by each student’s professional goals and personal needs. 
-        It’s a place to work on both personal and client projects, 
-        with the support and guidance of industry experts, a network of mentors, a team of facilitators and your fellow students. 
-        Throw the school wit have bee the opportunity to make client projects, some during school time others on ower free time, 
+        In 2017 I decided to come back to Portugal for reasons of major force, and it was the perfect time to take and to pursue my passion –
+        Frontend development and since I moved  I started to do some client projects using WordPress and Shopify.
+        In January 2018 I join in The New Digital School program that is a tailored to and driven by each student’s professional goals and personal needs.<br>
+        It’s a place to work on both personal and client projects,
+        with the support and guidance of industry experts, a network of mentors, a team of facilitators and your fellow students.
+        Throw the school wit have bee the opportunity to make client projects, some during school time others on ower free time,
         which allow us to prepare for a professional environment.
         During this time I've been collect Design skills that complement me Frontend developer and help especially on the problem-solving approach and having a better an understanding of the collaborative work between Designers and Developers.
 
