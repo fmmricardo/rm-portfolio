@@ -33,7 +33,6 @@ const Work = () => (
           <p>
             <li>Wordpress websites</li>
             <li>Webcomerce websites using Shopify</li>
-            <li>Starting develop an app with react - on going</li>
           </p>
         </div>
       </div>
