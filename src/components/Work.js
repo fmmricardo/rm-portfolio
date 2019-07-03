@@ -18,9 +18,9 @@ const Work = () => (
             <em className="date">October 2018 - Present</em>
           </p>
           <p>
-            Mantaining and improving the website project. Using react technology
-            through Gatsbyjs. Workinng with netlify continuous integrations and
-            implementing netlify cms.
+            Working on improving the dashboard used by the merchants.
+            Maintaining the website project. Using technologies like react,
+            gatsby, redux, graphql. Working with netlify, netlify cms.
           </p>
         </div>
         <div className="twelve columns">
