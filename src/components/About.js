@@ -1,7 +1,7 @@
 import React from 'react';
 import { FaCloudDownload } from 'react-icons/lib/fa';
-  
-      import profilePic from '../assets/images/RM_3.jpg';
+
+import profilePic from '../assets/images/RM_3.jpg';
 
 const About = () => (
   <section id="about">
@@ -23,23 +23,22 @@ const About = () => (
             Javascript, jQuery and Node js on Treehouse.
           </p>
           <p>
-            In 2017 I found the timing to pursue my passion
-            – Frontend development and then I started to do some client
-            projects using WordPress and Shopify. In January 2018 I join in The
-            New Digital School program that is a tailored to and driven by each
-            student’s professional goals and personal needs. It’s a place to
-            work on both, personal and client projects, with the support and
-            guidance of industry experts, a network of mentors, a team of
-            facilitators and your fellow students. Throw the school we had
-            the opportunity to make client projects, some during school time
-            others on ower free time, which allow us to prepare for a
-            professional environment.
+            In 2017 I found the timing to pursue my passion – Frontend
+            development and then I started to do some client projects using
+            WordPress and Shopify. In January 2018 I join in The New Digital
+            School program that is a tailored to and driven by each student’s
+            professional goals and personal needs. It’s a place to work on both,
+            personal and client projects, with the support and guidance of
+            industry experts, a network of mentors, a team of facilitators and
+            your fellow students. Throw the schoolwe had the opportunity to
+            make client projects, some during school time others on ower free
+            time, which allow us to prepare for a professional environment.
           </p>
           <p>
-	    During this time I've been learn Design skills that complement me
-            as Frontend developer especially on the problem-solving
-            approach and having a better an understanding of the collaborative
-            work between Designers and Developers.
+            During this time I've been learn Design skills that complement me as
+            Frontend developer especially on the problem-solving approach and
+            having a better an understanding of the collaborative work between
+            Designers and Developers.
           </p>
         </p>
         <p>
