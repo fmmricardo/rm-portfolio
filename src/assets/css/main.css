@@ -155,7 +155,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
    color: #313131;
-	font-family: 'opensans-bold', sans-serif;
+   font-family: 'opensans-bold', sans-serif;
    font-weight: normal;
 }
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { font-weight: inherit; }
@@ -828,7 +828,8 @@ properly.
 /* ------------------------------------------------------------------ */
 
 body {
-  background: #0f0f0f;
+  background: #81a1c1;
+  color:#4c566a;
 }
 
 /* ------------------------------------------------------------------ */
@@ -840,7 +841,7 @@ header {
   height: 100vh;
   min-height: 500px;
   width: 100%;
-  background: #161415 url(../images/Lamp.jpg) no-repeat top center;
+  background:#81a1c1;
   background-size: cover !important;
   -webkit-background-size: cover !important;
   text-align: center;
@@ -947,7 +948,7 @@ header .scrolldown a:hover {
 
 /* nav-wrap */
 #nav-wrap {
-  font: 12px "opensans-bold", sans-serif;
+  font: 20px "opensans-bold", sans-serif;
   width: 100%;
   text-transform: uppercase;
   letter-spacing: 2.5px;
@@ -989,7 +990,7 @@ ul#nav li a {
   line-height: 32px;
   text-decoration: none;
   text-align: left;
-  color: #fff;
+  color: #4c566a;
 
   -webkit-transition: color 0.2s ease-in-out;
   -moz-transition: color 0.2s ease-in-out;
@@ -1002,7 +1003,7 @@ ul#nav li a:active {
   background-color: transparent !important;
 }
 ul#nav li.current a {
-  color: #f06000;
+  color: #bf616a;
 }
 
 /* ------------------------------------------------------------------ */
@@ -1010,7 +1011,7 @@ ul#nav li.current a {
 /* ------------------------------------------------------------------ */
 
 #about {
-  background: #2b2b2b;
+  background: #d8dee9;
   padding-top: 96px;
   padding-bottom: 66px;
   overflow: hidden;
@@ -1018,16 +1019,16 @@ ul#nav li.current a {
 
 #about a,
 #about a:visited {
-  color: #fff;
+  color: #4c566a;
 }
 #about a:hover,
 #about a:focus {
-  color: #11abb0;
+  color: #8fbcbb;
 }
 
 #about h2 {
   font: 22px/30px "opensans-bold", sans-serif;
-  color: #fff;
+  color:#4c566a;
   margin-bottom: 12px;
 }
 #about p {
@@ -1068,7 +1069,7 @@ ul#nav li.current a {
 /* ------------------------------------------------------------------ */
 
 #resume {
-  background: #fff;
+  background:#d8dee9; 
   padding-top: 90px;
   padding-bottom: 72px;
   overflow: hidden;
@@ -1076,7 +1077,7 @@ ul#nav li.current a {
 
 #resume a,
 #resume a:visited {
-  color: #11abb0;
+  color: #8fbcbb;
 }
 #resume a:hover,
 #resume a:focus {
@@ -1089,7 +1090,7 @@ ul#nav li.current a {
   letter-spacing: 1px;
 }
 #resume h1 span {
-  border-bottom: 3px solid #11abb0;
+  border-bottom: 3px solid ##8fbcbb;
   padding-bottom: 6px;
 }
 #resume h3 {
@@ -1735,7 +1736,7 @@ call-to-action .button {
 
 #contact a,
 #contact a:visited {
-  color: #11abb0;
+  color: ##8fbcbb;
 }
 #contact a:hover,
 #contact a:focus {
@@ -1805,7 +1806,7 @@ call-to-action .button {
 #contact textarea:focus,
 #contact select:focus {
   color: #fff;
-  background-color: #11abb0;
+  background-color: ##8fbcbb;
 }
 #contact button.submit {
   text-transform: uppercase;
@@ -1824,7 +1825,7 @@ call-to-action .button {
   background: #fff;
 }
 #contact span.required {
-  color: #11abb0;
+  color: ##8fbcbb;
   font-size: 13px;
 }
 #message-warning,
@@ -1840,7 +1841,7 @@ call-to-action .button {
   color: #d72828;
 }
 #message-success {
-  color: #11abb0;
+  color: ##8fbcbb;
 }
 
 #message-warning i,
@@ -1950,7 +1951,7 @@ footer .social li:first-child {
   display: block;
   width: 60px;
   height: 60px;
-  background-color: #525252;
+  background-color: #81a1c1;
 
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
@@ -1964,7 +1965,7 @@ footer .social li:first-child {
   border-radius: 100%;
 }
 #go-top a:hover {
-  background-color: #0f9095;
+  background-color: #81a1c1;
 }
 
 

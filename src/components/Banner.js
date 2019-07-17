@@ -6,16 +6,10 @@ const Banner = () => (
     <div className="banner-text">
       <h1 className="responsive-headline">Ricardo Martins</h1>
       <h3>
-        I'm Frontend developer.
-        <p>
-          <a className="smoothscroll" href="#about">
-            start scrolling
-          </a>
-          and learn more
-          <a className="smoothscroll" href="#about">
-            about me.
-          </a>
-        </p>
+        Frontend developer with focus on user experience and a flair for design.
+        Always looking for something new to learn and willing to help those
+        around him. On his free time, he likes to ride his bike and “get lost”
+        in the mountains.
       </h3>
       <hr />
       <SocialLinks />

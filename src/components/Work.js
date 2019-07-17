@@ -18,9 +18,13 @@ const Work = () => (
             <em className="date">October 2018 - Present</em>
           </p>
           <p>
-            Working on improving the dashboard used by the merchants.
-            Maintaining the website project. Using technologies like react,
-            gatsby, redux, graphql. Working with netlify, netlify cms.
+            Working on cross funcitonal team, involved in multiple projoects,
+            improving the dashboard used by the merchants and maintaining
+            websites, by Using technologies like react,gatsby, redux, graphql,
+            Cypressjs. Working with netlify, netlify cms.
+            <br />
+            Implementing customer data infrastructure (CDI) like Segment wich
+            allow to collect data and send to analytic tools used .{' '}
           </p>
         </div>
         <div className="twelve columns">
