@@ -13,7 +13,9 @@ const Education = () => (
         <div className="twelve columns">
           <h3>UX/UI Design / Frontend Development</h3>
           <p className="info">
-            The New Digital School
+            <a href="http://thenewdigitalschool.com/" target="_blank">
+              The New Digital School
+            </a>
             <span>&bull;</span>
             <em className="date">January - December 2018</em>
           </p>
@@ -32,11 +34,17 @@ const Education = () => (
           <h3>Treehouse</h3>
           <p className="info">
             Online couser platform.{' '}
-            <a href="https://teamtreehouse.com/tracks/front-end-web-development">
+            <a
+              href="https://teamtreehouse.com/tracks/front-end-web-development"
+              target="_blank"
+            >
               Frontend Track{' '}
             </a>
             and{' '}
-            <a href="https://teamtreehouse.com/tracks/full-stack-javascript">
+            <a
+              href="https://teamtreehouse.com/tracks/full-stack-javascript"
+              target="_blank"
+            >
               Javascript Fullstack track{' '}
             </a>
             <span>&bull;</span>

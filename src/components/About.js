@@ -40,6 +40,9 @@ const About = () => (
             understanding of the collaborative work between Designers and
             Developers.{' '}
           </p>
+          <a href="mailto:fmm.ricardo@gmail.com" target="_top">
+            fmm.ricardo@gmail.com
+          </a>
         </p>
       </div>
     </div>
